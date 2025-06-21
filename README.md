@@ -13,7 +13,7 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
   <!-- Programming Languages -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
@@ -55,7 +55,7 @@
   <a href="https://opencv.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/>
   </a>
-  <img src="https://img.shields.io/badge/CNN-Deep%20Learning-blue?style=for-the-badge&logo=deepin" alt="CNN Badge"/>
+  <img src="https://img.shields.io/badge/CNN-Deep%20Learning-blue?style=flat-square" alt="CNN Badge" height="30"/>
 
   <!-- Hardware -->
   <a href="https://www.raspberrypi.org/" target="_blank">
@@ -65,6 +65,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
   </a>
 </p>
+
 
 
 
