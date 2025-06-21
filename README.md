@@ -41,9 +41,6 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
   </a>
-  <a href="https://www.chartjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="40" height="40" alt="Chart.js"/>
-  </a>
 
   <!-- ML / DL / CV -->
   <a href="https://pytorch.org/" target="_blank">
