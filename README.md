@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about AI, Automation, Drone Production and design and Engineering Solutions</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=dagbuinewton1023&label=Profile%20views&color=0e75b6&style=flat" alt="dagbuinewton1023" />
 </p>
 
 - 🔭 I’m currently working on: **Building ML models and engineering them in drones for suivellance**
