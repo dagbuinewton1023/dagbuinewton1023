@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=dagbuinewton1023&label=Profile%20views&color=0e75b6&style=flat" alt="dagbuinewton1023" />
 </p>
 
-- 🔭 I’m currently working on: **Building ML models and engineering them in drones for suivellance**
+- 🔭 I’m currently working on: **Building ML models and engineering them in drones for suivellance | Full stack app with python | Data Analysis**
 - 📫 How to reach me: **newtonhope1023@gmail.com**
 
 
