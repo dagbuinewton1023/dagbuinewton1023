@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dagbui Emmanuel Hope</h1>
-<h3 align="center">Passionate about AI, Automation, Drone Production and design and Engineering Solutions</h3>
+<h3 align="center">Passionate about Aerospace, AI, Automation, Drone Production and design and Engineering Solutions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dagbuinewton1023&label=Profile%20views&color=0e75b6&style=flat" alt="dagbuinewton1023" />
